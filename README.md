@@ -5,5 +5,5 @@ I want to start by solving the following [75 test problems](https://leetcode.com
 
 1. [Two Sum](https://leetcode.com/problems/two-sum/description/). [Here](/1_two_sum.ipynb) is my solution
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/). [Here](/2_Longest_substring_without_repeating_chars.ipynb) is my solution and other that I found with better performance.
-3. [Longest Palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
-4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+3. [Longest Palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/) [Here](/3_Longest_Palindromic_substring.ipynb) is my solution and other I found with better performance.
+4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [Here](/4_Container_with_most_water.ipynb) is my solution. 
